@@ -1,0 +1,6 @@
+This is simple Python script which grabs a quote from the life-lessons.html page and diplays it as a notification. 
+I have used Datetime module so the scripts show one quote/per day. Next day it displays the next quote.
+
+REQUIREMENTS:
+
+All you need is to install Mechanize and BeautifulSoup to run this script
